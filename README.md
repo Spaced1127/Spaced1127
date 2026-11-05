@@ -1,6 +1,6 @@
 # Spaced Out
 
-Vibecoder, repair technician, game enjoyer. I build local-first tools and port games to hardware they were never meant to run on.
+Repair technician, vibecoder, game enjoyer. I build useful tools and port games to hardware they were never meant to run on.
 
 [Portfolio](https://spaced1127.github.io) · [Email](mailto:spacedoutbeard@gmail.com) · [GitHub](https://github.com/Spaced1127)
 
